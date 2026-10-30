@@ -1,0 +1,29 @@
+=== Sistema operativo ===
+PRETTY_NAME="Ubuntu 22.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.5 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+
+=== Memoria RAM ===
+               total        used        free      shared  buff/cache   available
+Mem:           957Mi       706Mi        85Mi       3.0Mi       164Mi       100Mi
+Swap:          2.0Gi       952Mi       1.1Gi
+
+=== Espacio en disco ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            96M  1.1M   95M   2% /run
+/dev/vda1        25G  6.4G   18G  27% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/vda15      105M  6.1M   99M   6% /boot/efi
+tmpfs            96M  4.0K   96M   1% /run/user/0
+
+El VPS está listo para los despliegues de la compañía.
